@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\DELL 5570\\OneDrive\\Desktop\\Music-Player\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\DELL 5570\\.gradle\\caches\\transforms-2\\files-2.1\\697f71c0c12135256cbfe98df498a7e4\\appcompat-1.0.2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL 5570\\OneDrive\\Desktop\\Music-Player\\app\\src\\main\\res\\values-sw600dp\\integers.xml",
+                    "from": {
+                        "startLines": "2,3,5,6,11,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "57,111,172,226,384,287,332",
+                        "endColumns": "52,57,52,57,59,43,48",
+                        "endOffsets": "105,164,220,279,439,326,376"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1337,1390,1448,1501,1622,1682,1726",
+                        "endColumns": "52,57,52,57,59,43,48",
+                        "endOffsets": "1385,1443,1496,1554,1677,1721,1770"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL 5570\\.gradle\\caches\\transforms-2\\files-2.1\\c7eb9cd3508ac3959447c14fd76c9fb9\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,680",
+                        "endLines": "2,3,4,5,6,7,9,10,11,15",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,675,847"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,18,26,30",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1109,1559,1775",
+                        "endLines": "10,11,12,13,14,15,17,18,26,33",
+                        "endColumns": "59,69,70,71,57,57,10,63,62,10",
+                        "endOffsets": "666,736,807,879,937,995,1104,1168,1617,1942"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL 5570\\OneDrive\\Desktop\\Music-Player\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,71",
+                        "endColumns": "52,58",
+                        "endOffsets": "65,125"
+                    },
+                    "to": {
+                        "startLines": "19,20",
+                        "startColumns": "4,4",
+                        "startOffsets": "1173,1226",
+                        "endColumns": "52,58",
+                        "endOffsets": "1221,1280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\DELL 5570\\.gradle\\caches\\transforms-2\\files-2.1\\bd49629d6c4bfd6d1c00139b62475734\\jetified-core-0.9.6.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "1285",
+                        "endColumns": "51",
+                        "endOffsets": "1332"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,531 @@
+-- Merging decision tree log ---
+provider#androidx.core.content.FileProvider
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:197:9-205:20
+	android:grantUriPermissions
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:201:13-47
+	android:authorities
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:199:13-51
+	android:exported
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:200:13-37
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:198:13-62
+manifest
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82f04cebf9a2df0b2f17bece67331019\databinding-adapters-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f606a04201dd42647fb053f1291e98d\databinding-runtime-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2166819b063597b7e7bd9e5bbd413339\legacy-preference-v14-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\db247816455a5da7cd6ca75fe28080fa\preference-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f86cdfbf17439eff108343f40181ae3e\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:25:1-37:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\958900f74c89da71276173786c03f979\jetified-commons-0.9.6.0\AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.afollestad:material-cab:0.1.12] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\54bf9f9a4fd42f355e12bf985ac2e196\jetified-material-cab-0.1.12\AndroidManifest.xml:2:1-14:12
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fed9f21b97386d43b04490db4d0cf8b\jetified-material-intro-1.6\AndroidManifest.xml:2:1-12:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ee201f1301d95c4a3a63647789e9e42d\jetified-library-1.4.2\AndroidManifest.xml:6:1-16:12
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c472c32c5e554599d285c805426985f8\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\af83585147f242818022c967dc6bd4aa\legacy-support-v13-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.3-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\1526f751759e271978449b9eefdde742\jetified-AndroidSlidingUpPanel-3.3.3-kmod\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\062eb74c1a6fe650432564db4113c6b5\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8aa9bbfec0b859f24407413418891724\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f7c42e639ba887f6915771f38c573799\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ceb81553a8d4d1147c847656f2ca2121\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f9343ede0c54ea759a754bc85a64c5e\gridlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\59671014416894ba57f739fb21265ef5\palette-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8dd60c12365866a758729388c9269df3\media-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\b0ad6258a309f065c2aa438f6e04ff30\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\62ec569ca307aebf19eb528ff2a14917\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\d2cae29ea156ecc28d8f5099dc624ed2\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4db959bb99a793b29fc9e6cd81c48f85\butterknife-10.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2664f8ec6c58cce176a4008968236f81\butterknife-runtime-10.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fe44ae24daa7cfa2dd483a5d3b65a2f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\180a59115a036f245a92be14a7e50e00\jaudiotagger-2.2.3\AndroidManifest.xml:2:1-12:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+	package
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:1-208:12
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:14:22-74
+application
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:16:5-206:19
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f86cdfbf17439eff108343f40181ae3e\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:35:5-20
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f86cdfbf17439eff108343f40181ae3e\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:35:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\958900f74c89da71276173786c03f979\jetified-commons-0.9.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\958900f74c89da71276173786c03f979\jetified-commons-0.9.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad:material-cab:0.1.12] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\54bf9f9a4fd42f355e12bf985ac2e196\jetified-material-cab-0.1.12\AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad:material-cab:0.1.12] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\54bf9f9a4fd42f355e12bf985ac2e196\jetified-material-cab-0.1.12\AndroidManifest.xml:12:5-20
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.3-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\1526f751759e271978449b9eefdde742\jetified-AndroidSlidingUpPanel-3.3.3-kmod\AndroidManifest.xml:9:5-20
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.3-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\1526f751759e271978449b9eefdde742\jetified-AndroidSlidingUpPanel-3.3.3-kmod\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:20:9-41
+	tools:ignore
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:23:9-39
+	android:icon
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:19:9-40
+	android:allowBackup
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:17:9-28
+activity#com.maxfour.music.ui.activities.MainActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:24:9-94:20
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:24:19-61
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:25:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:26:25-66
+action#android.intent.action.MUSIC_PLAYER
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:27:25-74
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:29:27-74
+category#android.intent.category.APP_MUSIC
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:30:27-75
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:31:27-73
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:34:25-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:38:13-48:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:39:25-66
+data
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:43:17-50
+	android:scheme
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:43:23-47
+	android:mimeType
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:44:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:49:13-59:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:60:13-71:29
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:64:17-78
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:64:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/albums+data:mimeType:vnd.android.cursor.dir/artists+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:72:13-80:29
+intent-filter#action:name:com.cyanogenmod.eleven.AUDIO_PLAYER+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:81:13-85:29
+action#com.cyanogenmod.eleven.AUDIO_PLAYER
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:82:17-78
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:82:25-75
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/audio
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:86:13-93:29
+action#android.intent.action.PICK
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:87:17-69
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:87:25-66
+category#android.intent.category.OPENABLE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:90:17-77
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:90:27-74
+activity#com.maxfour.music.ui.activities.AlbumDetailActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:95:9-71
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:95:19-68
+activity#com.maxfour.music.ui.activities.ArtistDetailActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:96:9-72
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:96:19-69
+activity#com.maxfour.music.ui.activities.GenreDetailActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:97:9-71
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:97:19-68
+activity#com.maxfour.music.ui.activities.PlaylistDetailActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:98:9-74
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:98:19-71
+activity#com.maxfour.music.ui.activities.tageditor.SongTagEditorActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:99:9-101:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:101:13-55
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:100:13-74
+activity#com.maxfour.music.ui.activities.tageditor.AlbumTagEditorActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:102:9-104:58
+	android:windowSoftInputMode
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:104:13-55
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:103:13-75
+activity#com.maxfour.music.ui.activities.SearchActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:105:9-66
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:105:19-63
+activity#com.maxfour.music.ui.activities.SettingsActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:106:9-108:55
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:108:13-52
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:107:13-59
+activity#com.maxfour.music.ui.activities.intro.AppIntroActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:109:9-112:50
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:111:13-48
+	android:theme
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:112:13-47
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:110:13-65
+activity#com.maxfour.music.appshortcuts.AppShortcutLauncherActivity
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:113:9-116:75
+	android:launchMode
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:115:13-48
+	android:theme
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:116:13-72
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:114:13-69
+service#com.maxfour.music.service.MusicService
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:118:9-120:38
+	android:enabled
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:120:13-35
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:119:13-49
+receiver#com.maxfour.music.service.MediaButtonIntentReceiver
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:122:9-126:20
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:122:19-68
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:123:13-125:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:124:17-77
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:124:25-74
+meta-data#android.max_aspect
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:128:9-130:35
+	android:value
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:130:13-32
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:129:13-46
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:131:9-133:36
+	android:value
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:133:13-33
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:132:13-56
+meta-data#com.maxfour.music.glide.MusicGlideModule
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:134:9-136:43
+	android:value
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:136:13-40
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:135:13-68
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:137:9-139:43
+	android:value
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:139:13-40
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:138:13-84
+receiver#com.maxfour.music.appwidgets.BootReceiver
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:142:9-147:20
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:142:19-58
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:143:13-146:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:144:17-79
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:144:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:145:17-82
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:145:25-79
+receiver#com.maxfour.music.appwidgets.AppWidgetBig
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:148:9-159:20
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:151:13-56
+	android:exported
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:149:13-52
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:152:13-154:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:153:17-84
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:153:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:156:13-158:63
+	android:resource
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:158:17-60
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:157:17-58
+receiver#com.maxfour.music.appwidgets.AppWidgetClassic
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:160:9-171:20
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:163:13-60
+	android:exported
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:162:13-37
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:161:13-56
+receiver#com.maxfour.music.appwidgets.AppWidgetSmall
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:172:9-183:20
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:175:13-58
+	android:exported
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:174:13-37
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:173:13-54
+receiver#com.maxfour.music.appwidgets.AppWidgetCard
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:184:9-195:20
+	android:label
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:187:13-57
+	android:exported
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:186:13-37
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:185:13-53
+uses-sdk
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82f04cebf9a2df0b2f17bece67331019\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82f04cebf9a2df0b2f17bece67331019\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f606a04201dd42647fb053f1291e98d\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f606a04201dd42647fb053f1291e98d\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c7eb9cd3508ac3959447c14fd76c9fb9\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2166819b063597b7e7bd9e5bbd413339\legacy-preference-v14-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-preference-v14:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2166819b063597b7e7bd9e5bbd413339\legacy-preference-v14-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\db247816455a5da7cd6ca75fe28080fa\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\db247816455a5da7cd6ca75fe28080fa\preference-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f86cdfbf17439eff108343f40181ae3e\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:31:5-33:41
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f86cdfbf17439eff108343f40181ae3e\jetified-SeekArc-1.2-kmod\AndroidManifest.xml:31:5-33:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\958900f74c89da71276173786c03f979\jetified-commons-0.9.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\958900f74c89da71276173786c03f979\jetified-commons-0.9.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad:material-cab:0.1.12] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\54bf9f9a4fd42f355e12bf985ac2e196\jetified-material-cab-0.1.12\AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad:material-cab:0.1.12] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\54bf9f9a4fd42f355e12bf985ac2e196\jetified-material-cab-0.1.12\AndroidManifest.xml:8:5-10:41
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fed9f21b97386d43b04490db4d0cf8b\jetified-material-intro-1.6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.heinrichreimersoftware:material-intro:1.6] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fed9f21b97386d43b04490db4d0cf8b\jetified-material-intro-1.6\AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ee201f1301d95c4a3a63647789e9e42d\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ee201f1301d95c4a3a63647789e9e42d\jetified-library-1.4.2\AndroidManifest.xml:12:5-14:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c472c32c5e554599d285c805426985f8\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c472c32c5e554599d285c805426985f8\jetified-advrecyclerview-0.11.0\AndroidManifest.xml:23:5-25:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\697f71c0c12135256cbfe98df498a7e4\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\af83585147f242818022c967dc6bd4aa\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\af83585147f242818022c967dc6bd4aa\legacy-support-v13-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.3-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\1526f751759e271978449b9eefdde742\jetified-AndroidSlidingUpPanel-3.3.3-kmod\AndroidManifest.xml:7:5-43
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.3-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\1526f751759e271978449b9eefdde742\jetified-AndroidSlidingUpPanel-3.3.3-kmod\AndroidManifest.xml:7:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\062eb74c1a6fe650432564db4113c6b5\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\062eb74c1a6fe650432564db4113c6b5\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8aa9bbfec0b859f24407413418891724\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:7:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8aa9bbfec0b859f24407413418891724\jetified-RecyclerView-FastScroll-1.0.16-kmod\AndroidManifest.xml:7:5-44
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f7c42e639ba887f6915771f38c573799\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f7c42e639ba887f6915771f38c573799\jetified-android-observablescrollview-1.6.0\AndroidManifest.xml:21:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ceb81553a8d4d1147c847656f2ca2121\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ceb81553a8d4d1147c847656f2ca2121\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f9343ede0c54ea759a754bc85a64c5e\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.gridlayout:gridlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8f9343ede0c54ea759a754bc85a64c5e\gridlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\59671014416894ba57f739fb21265ef5\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\59671014416894ba57f739fb21265ef5\palette-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8dd60c12365866a758729388c9269df3\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8dd60c12365866a758729388c9269df3\media-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\b0ad6258a309f065c2aa438f6e04ff30\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\b0ad6258a309f065c2aa438f6e04ff30\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\62ec569ca307aebf19eb528ff2a14917\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\62ec569ca307aebf19eb528ff2a14917\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\d2cae29ea156ecc28d8f5099dc624ed2\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\d2cae29ea156ecc28d8f5099dc624ed2\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4db959bb99a793b29fc9e6cd81c48f85\butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4db959bb99a793b29fc9e6cd81c48f85\butterknife-10.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2664f8ec6c58cce176a4008968236f81\butterknife-runtime-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.1.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\2664f8ec6c58cce176a4008968236f81\butterknife-runtime-10.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bcb8a1c73aec9bca487446ff332008d2\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fe44ae24daa7cfa2dd483a5d3b65a2f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4fe44ae24daa7cfa2dd483a5d3b65a2f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\180a59115a036f245a92be14a7e50e00\jaudiotagger-2.2.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\180a59115a036f245a92be14a7e50e00\jaudiotagger-2.2.3\AndroidManifest.xml:8:5-10:41
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\bd49629d6c4bfd6d1c00139b62475734\jetified-core-0.9.6.0\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:202:13-204:58
+	android:resource
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:204:17-55
+	android:name
+		ADDED from C:\Users\DELL 5570\OneDrive\Desktop\Music-Player\app\src\main\AndroidManifest.xml:203:17-67
+activity#com.kabouzeid.appthemehelper.common.ATHToolbarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:12:9-91
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:12:19-88
+activity#com.kabouzeid.appthemehelper.ATHActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:13:9-77
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:13:19-74
+activity#com.kabouzeid.appthemehelper.common.ATHActionBarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:14:9-93
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] C:\Users\DELL 5570\.gradle\caches\transforms-2\files-2.1\4974b8d3024bd529ea9893bf2eaf1c94\jetified-app-theme-helper-1.3.10\AndroidManifest.xml:14:19-90
